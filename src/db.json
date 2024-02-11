@@ -4,7 +4,7 @@
 			"id": "001",
 			"login": "sergei",
 			"password": "qwerty123",
-			"registed_at": "2050-02-11",
+			"registed_at": "2024-02-11",
 			"role_id ": 0
 		}
 	],
@@ -93,4 +93,3 @@
 	],
 	"comments": []
 }
-
