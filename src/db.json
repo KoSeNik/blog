@@ -105,5 +105,40 @@
       "published_at": "2024-02-19"
     }
   ],
-  "comments": []
+  "comments": [
+    {
+      "author_id": "0000001",
+      "post_id": "001",
+      "published_at": "2062-07-27 21:26",
+      "content": "мой первый комментарий",
+      "id": 1
+    },
+    {
+      "author_id": "0000001",
+      "post_id": "001",
+      "published_at": "2049-08-15 19:56",
+      "content": "второй коммент",
+      "id": 2
+    },
+    {
+      "author_id": "0000001",
+      "post_id": "001",
+      "published_at": "2046-08-28 02:35",
+      "content": "третий",
+      "id": 3
+    }
+  ],
+  "sessions": [
+    {
+      "hash": "0.71676827474270787821097883352194912731647491455078",
+      "user": {
+        "id": "0000001",
+        "login": "sergei",
+        "password": "qwerty123",
+        "registeredAt": "2024-02-11",
+        "roleId": 0
+      },
+      "id": 1
+    }
+  ]
 }
