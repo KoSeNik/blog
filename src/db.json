@@ -215,6 +215,17 @@
         "roleId": 0
       },
       "id": "YdQL-cj"
+    },
+    {
+      "hash": "0.22622436671772971905625126964878290891647338867188",
+      "user": {
+        "id": "0000001",
+        "login": "sergei",
+        "password": "qwerty123",
+        "registeredAt": "2024-02-11",
+        "roleId": 0
+      },
+      "id": "w4qtlf_"
     }
   ]
 }
