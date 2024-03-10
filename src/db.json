@@ -226,6 +226,17 @@
         "roleId": 0
       },
       "id": "w4qtlf_"
+    },
+    {
+      "hash": "0.70266349031395902713370560377370566129684448242188",
+      "user": {
+        "id": "0000001",
+        "login": "sergei",
+        "password": "qwerty123",
+        "registeredAt": "2024-02-11",
+        "roleId": 0
+      },
+      "id": "Fv6Ukm-"
     }
   ]
 }
