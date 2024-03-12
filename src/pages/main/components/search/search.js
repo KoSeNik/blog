@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import { Icon, Input } from '../../../../components';
 import styled from 'styled-components';
 
@@ -31,3 +32,8 @@ export const Seacrh = styled(SearchContainer)`
 		top: 3px;
 	}
 `;
+
+Seacrh.propTypes = {
+	searchPrase: PropTypes.string.isRequired,
+	onChange: PropTypes.func.isRequired,
+};
